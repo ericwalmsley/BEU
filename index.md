@@ -28,6 +28,9 @@
     - Coastal areas range from 30 - 60%
     - Inland areas range from 20 - 40%
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~eric.walmsley/39.embed"></iframe>
+
+
 ```markdown
 Syntax highlighted code block
 
