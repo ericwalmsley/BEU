@@ -1,12 +1,32 @@
-## Welcome to GitHub Pages
+## BEU Fire Risk & Weather Forecast
 
-You can use the [editor on GitHub](https://github.com/ericwalmsley/BEU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Executive Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Fire Behavior
+  -  Unit wide, average simulated fire size has climbed to 112 acres as high temperatures are forecasted over the weekend
+  -  Largest simulated fires occur during the following time periods:
+      - Today: 1500 - 1800hrs
+      - Tomorrow: 1200 - 1500hrs
+      - Sunday: 1500 - 1800hrs
+  - Largest simulated fires occur at the following locations:
+      - Today:
+        - Battalion 5 & 6, Panoche Valley & Willow Springs
+      - Tomorrow:
+        - Battalion 1 & 3, Silver Peak Wilderness, Pine Canyon and Arroyo Seco
+        - Battalion 5 & 6, Panoche Valley & Willow Springs
+      - Sunday: 
+        - Battalions 3, 4, & 6 in varied locations (see attachment)
+- Weather
+  - Mostly sunny days and partly cloudy nights are forecasted for the next two days
+  - Winds will be westerly to northwesterly averaging 5 - 15mph, about the same as yesterday
+    - Expect afternoon gusts up to 25mph
+  - Temperatures (daytime maximum) continue to climb, and will be warmest on Sunday, especially in the interior portions of the unit
+    - Today: Mid 50s to mid 70s
+    - Tomorrow: Mid 50s to low 80s
+    - Sunday: Mid 50s to upper 80s/low 90s
+  - RH (daytime minimum) 
+    - Coastal areas range from 30 - 60%
+    - Inland areas range from 20 - 40%
 
 ```markdown
 Syntax highlighted code block
