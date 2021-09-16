@@ -30,7 +30,7 @@
 
 ### Fire Size Potential Animation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s0pwxy6N-1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/sHEzm6Fjcmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ```markdown
